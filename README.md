@@ -40,5 +40,7 @@ I am a dedicated engineer from **Tunisia**, specializing in building intelligent
 ---
 
 ### 🤝 Let's Connect
+
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/mohammed-alissawi)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/medissaoui711)
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://al-issawi-portfolio.vercel.app/)
