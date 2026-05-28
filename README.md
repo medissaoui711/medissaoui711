@@ -1,10 +1,10 @@
-# # 👋 Hi, I'm Mohammed Al-Issawi
+# # 👋 Hi, I'm Mohamed Issaoui
 ### 🚀  AI Developer | Mobile & Web Expert
 
 ---
 
 ### 💻 About Me
-I am a dedicated engineer from **Tunisia**, specializing in building intelligent digital services. My expertise spans from high-performance **Android applications** to modern **Next.js web solutions** with seamless **AI integrations**.
+I am a dedicated Developer from **Tunisia**, specializing in building intelligent digital services. My expertise spans from high-performance **Android applications** to modern **Next.js web solutions** with seamless **AI integrations**.
 
 - 🛠️ **Currently working on:** Advanced SaaS platforms and AI Audit tools.
 - 🎓 **Always Learning:** Deepening my knowledge in Prompt Engineering and NLP.
