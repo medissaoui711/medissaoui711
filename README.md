@@ -1,5 +1,5 @@
 # # 👋 Hi, I'm Mohammed Al-Issawi
-### 🚀 Software Engineer & AI Developer | Mobile & Web Expert
+### 🚀  AI Developer | Mobile & Web Expert
 
 ---
 
