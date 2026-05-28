@@ -6,7 +6,7 @@
 ### 💻 About Me
 I am a self-taught developer from Tunisia. I was one of the top students in my early school years, but had to stop formal education to support my family after my father passed away. 
 
-I specialize in building intelligent digital services... . My expertise spans from high-performance **Android applications** to modern **Next.js web solutions** with seamless **AI integrations**.
+I specialize in building intelligent digital services... My expertise spans from high-performance **Android applications** to modern **Next.js web solutions** with seamless **AI integrations**.
 
 - 🛠️ **Currently working on:** Advanced SaaS platforms and AI Audit tools.
 - 🎓 **Always Learning:** Deepening my knowledge in Prompt Engineering and NLP.
