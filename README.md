@@ -1,48 +1,66 @@
-# # 👋 Hi, I'm Mohamed Issaoui
-### 🚀  AI Developer | Mobile & Web Expert
+<!-- Hero Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=260&section=header&text=Mohamed%20Issaoui&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=AI+Developer;Mobile+%26+Web+Expert;SaaS+Builder;Prompt+Engineering+%26+NLP+Learner" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>🚀 AI Developer | Mobile & Web Expert</b>
+</p>
+
+<p align="center">
+  I build intelligent digital services, elegant mobile apps, and modern web products with practical AI integration.
+</p>
+
+<p align="center">
+  <a href="https://al-issawi-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:tectoolshub@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/medissaoui711">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mohammed-alissawi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 💻 About Me
-I am a self-taught developer from Tunisia. I was one of the top students in my early school years, but had to stop formal education to support my family after my father passed away. 
+### ✨ About Me
 
-I specialize in building intelligent digital services... My expertise spans from high-performance **Android applications** to modern **Next.js web solutions** with seamless **AI integrations**.
+I am a self-taught developer from Tunisia. I was one of the top students in my early school years, but had to stop formal education to support my family after my father passed away.
+
+I specialize in building intelligent digital services. My expertise spans from high-performance **Android applications** to modern **Next.js web solutions** with seamless **AI integrations**.
 
 - 🛠️ **Currently working on:** Advanced SaaS platforms and AI Audit tools.
 - 🎓 **Always Learning:** Deepening my knowledge in Prompt Engineering and NLP.
 - 🌐 **Portfolio:** [al-issawi-portfolio.vercel.app](https://al-issawi-portfolio.vercel.app/)
-- 📧 **Contact:** [tectoolshub@gmail.com]
+- 📧 **Contact:** tectoolshub@gmail.com
 
 ---
 
-### 🛠️ Tech Stack & Specialized Skills
+### 🧠 What I Focus On
 
-| Field | Core Technologies & Frameworks |
-| :--- | :--- |
-| **📱 Mobile** | ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white) |
-| **🌐 Web** | ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **🤖 AI & Backend** | ![Gemini](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat&logo=google-gemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
-| **⚙️ DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+```txt
+AI Products        → Assistants, audit tools, automation
+Mobile Apps        → Android, Kotlin, Java
+Web Apps           → Next.js, React, TypeScript
+Product Engineering→ Clean architecture, scalable systems
 
----
-
-### 💻 Development Tools
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-
-
----
-
-### 📊 GitHub Stats
-![Mohammed's Stats](https://github-readme-stats.vercel.app/api?username=medissaoui711&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medissaoui711&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🤝 Let's Connect
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/mohammed-alissawi)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/medissaoui711)
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />](https://al-issawi-portfolio.vercel.app/)
+🛠️ Tech Stack
+🧰 Development Tools
+🌟 Featured Work
+APEX
+An AI-focused solution designed to deliver a modern, powerful developer experience.
+apex-core
+Core project and experimentation space for AI-driven product ideas and tooling.
+Portfolio
+My personal portfolio showcasing selected work and capabilities.
+📊 GitHub Overview
+🤝 Let’s Connect
