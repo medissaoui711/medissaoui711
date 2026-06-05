@@ -40,7 +40,7 @@ I specialize in building intelligent digital services. My expertise spans from h
 
 - 🛠️ **Currently working on:** Advanced SaaS platforms and AI Audit tools.
 - 🎓 **Always Learning:** Deepening my knowledge in Prompt Engineering and NLP.
-- 🌐 **Portfolio:** [al-issawi-portfolio.vercel.app](https://al-issawi-portfolio.vercel.app/)
+- 🌐 **Portfolio:** [al-issawi-portfolio.vercel.app](https://al-issawi-portfolio-jbtm.vercel.app/)
 - 📧 **Contact:** tectoolshub@gmail.com
 
 ---
