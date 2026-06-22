@@ -34,7 +34,7 @@
 
 ### ✨ About Me
 
-I am a self-taught developer from Tunisia. I was one of the top students in my early school years, but had to stop formal education to support my family after my father passed away.
+Hello, I am a software developer who is passionate about technology and programming, and I am working on developing my skills in various fields such as: web and phone application development
 
 I specialize in building intelligent digital services. My expertise spans from high-performance **Android applications** to modern **Next.js web solutions** with seamless **AI integrations**.
 
