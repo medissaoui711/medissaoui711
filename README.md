@@ -34,15 +34,14 @@
 
 ### ✨ About Me
 
-Hello, I am an **AI-Augmented Full-Stack Developer** (مطور Full-Stack مدعوم بالذكاء الاصطناعي), passionate about technology and programming. I focus on building intelligent, scalable, and production-ready digital systems using modern web and mobile technologies combined with AI orchestration.
 
-I specialize in building intelligent digital services. My expertise spans from high-performance **Android applications** to modern **Next.js web solutions** with seamless **AI integrations**.
+Hello, I’m an **AI-Augmented Full-Stack Developer** (مطور Full-Stack مدعوم بالذكاء الاصطناعي), passionate about building intelligent, scalable, and production-ready digital systems.
 
-- 🛠️ **Currently working on:** Advanced SaaS platforms and AI Audit tools.
-- 🎓 **Always Learning:** Deepening my knowledge in Prompt Engineering and NLP, and refining AI-driven development workflows.
+I specialize in designing and implementing modern web and mobile solutions, from high-performance **Android applications** to advanced **Next.js** platforms, with seamless **AI integrations** and a strong focus on architecture, quality, and security.
+
+- 🛠️ **Currently working on:** Advanced SaaS platforms and AI-powered audit tools.
 - 🌐 **Portfolio:** [al-issawi-portfolio.vercel.app](https://al-issawi-portfolio-jbtm.vercel.app/)
 - 📧 **Contact:** tectoolshub@gmail.com
-
 ---
 
 ### 🧠 What I Focus On
