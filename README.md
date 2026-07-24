@@ -122,7 +122,7 @@ My personal portfolio showcasing selected work and capabilities.
 
 ---
 
-### 🐍 GitHub Stats with Snake Trail Effect
+### 🕊️ GitHub Stats with Snake Trail Effect
 
 <p align="center">
   <picture>
