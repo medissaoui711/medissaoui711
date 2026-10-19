@@ -40,7 +40,7 @@ Hello, I’m an **AI-Augmented Full-Stack Developer** (مطور Full-Stack مد�
 I specialize in designing and implementing modern web and mobile solutions, from high-performance **Android applications** to advanced **Next.js** platforms, with seamless **AI integrations** and a strong focus on architecture, quality, and security.
 
 - 🛠️ **Currently working on:** Advanced SaaS platforms and AI-powered audit tools.
-- 🌐 **Portfolio:** [al-issawi-portfolio.vercel.app](https://al-issawi-portfolio-jbtm.vercel.app/)
+- 🌐 **Portfolio:** [al-issawi-portfolio.vercel.app](https://ofuq-ai.pages.dev/)
 - 📧 **Contact:** tectoolshub@gmail.com
 ---
 
