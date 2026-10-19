@@ -1,8 +1,11 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=260&section=header&text=Mohamed%20Issaoui&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Mohamed Issaoui banner" />
+  <a href="https://ofuq-ai.pages.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=260&section=header&text=Mohamed%20Issaoui&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Mohamed Issaoui banner" />
+  </a>
 </p>
 
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=AI+Developer;Mobile+%26+Web+Expert;SaaS+Builder;Prompt+Engineering+%26+NLP+Learner" alt="Typing SVG" />
 </p>
