@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://al-issawi-portfolio-jbtm.vercel.app/">
+  <a href="https://ofuq-ai.pages.dev/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:tectoolshub@gmail.com">
