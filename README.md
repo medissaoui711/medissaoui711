@@ -28,7 +28,7 @@
   <a href="https://github.com/medissaoui711">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/mohammed-alissawi">
+  <a href="https://www.linkedin.com/in/mohamed-issaoui-664424275">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -43,7 +43,7 @@ Hello, I’m an **AI-Augmented Full-Stack Developer** (مطور Full-Stack مد�
 I specialize in designing and implementing modern web and mobile solutions, from high-performance **Android applications** to advanced **Next.js** platforms, with seamless **AI integrations** and a strong focus on architecture, quality, and security.
 
 - 🛠️ **Currently working on:** Advanced SaaS platforms and AI-powered audit tools.
-- 🌐 **Portfolio:** [al-issawi-portfolio.vercel.app](https://ofuq-ai.pages.dev/)
+- 🌐 **Portfolio:** [ofuq-ai.pages.dev](https://ofuq-ai.pages.dev/)
 - 📧 **Contact:** tectoolshub@gmail.com
 ---
 
@@ -119,7 +119,7 @@ An AI-focused solution designed to deliver a modern, powerful developer experien
 
 Core project and experimentation space for AI-driven product ideas and tooling.
 
-#### [Portfolio](https://al-issawi-portfolio.vercel.app/)
+#### [Portfolio](https://ofuq-ai.pages.dev/)
 
 My personal portfolio showcasing selected work and capabilities.
 
@@ -153,13 +153,13 @@ My personal portfolio showcasing selected work and capabilities.
 ### 🤝 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/mohammed-alissawi">
+  <a href="https://www.linkedin.com/in/mohamed-issaoui-664424275">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/medissaoui711">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://al-issawi-portfolio-jbtm.vercel.app/">
+  <a href="https://ofuq-ai.pages.dev/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:tectoolshub@gmail.com">
