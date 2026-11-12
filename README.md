@@ -23,6 +23,9 @@
   <a href="https://www.linkedin.com/in/mohamed-issaoui-664424275">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://www.ainews.gleeze.com/">
+    <img src="https://img.shields.io/badge/DigitalNawa-Technology%20Publication-0F766E?style=for-the-badge" alt="DigitalNawa" />
+  </a>
   <a href="mailto:tectoolshub@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -106,6 +109,10 @@ An AI coding assistant and orchestration platform designed to bring local and cl
 ### [Personal Portfolio](https://ofuq-ai.pages.dev/)
 
 My professional portfolio, presenting my development focus, selected work, and ways to connect.
+
+### [DigitalNawa — Technology & AI Publication](https://www.ainews.gleeze.com/)
+
+An independent Arabic-language technology publication covering artificial intelligence and the evolving technology landscape.
 
 ---
 
